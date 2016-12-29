@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1477193095 source:c:\users\kaarthic\desktop\me\new my stuff\c++ programs\wcipeg problems\mastermind\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1477199495 source:c:\users\kaarthic\desktop\me\new my stuff\c++ programs\mastermind\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<algorithm>
+
