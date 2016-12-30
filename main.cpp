@@ -147,7 +147,7 @@ int main()
                          {' ', ' ', ' ', ' ', '|', ' ', ' ', ' ', ' '},
                          {' ', ' ', ' ', ' ', '|', ' ', ' ', ' ', ' '}};
 
-    cout << "Welcome to Mastermind!\nThe CPU has selected 4 unique colours from the following:\nRed (R)\nGreen (G)\nYellow (Y)\nBlue (B)\nWhite (W)\nPink (P)\nYou have 10 turns to deduce the correct colours in the correct order.\n\nEach turn you must select 4 colours each turn and you will obtain the accuracy of your guess:\n1 means right colour, wrong place\n2 means right colour, right place\n0 is just a placeholder\nNote: the order of the key does NOT correspond to the entered colours";
+    cout << "Welcome to Mastermind!\nThe CPU has selected 4 unique colours from the following:\nRed (R)\nGreen (G)\nYellow (Y)\nBlue (B)\nWhite (W)\nPink (P)\nYou have 10 turns to deduce the correct colours in the correct order.\n\nEach turn you must select 4 colours each turn and you will obtain the accuracy of your guess:\n1 means right colour, wrong place\n2 means right colour, right place\nNote: the order of the key does NOT correspond to the entered colours";
     cout << "\n\nPossible colours are R G B Y W P (case sensitive)\n";
     char input[4];
     int turn = 1;
