@@ -5,10 +5,11 @@
 	<stdio.h>
 	<time.h>
 
-1477199495 source:c:\users\kaarthic\desktop\me\new my stuff\c++ programs\mastermind\main.cpp
+1483126172 source:c:\users\kaarthic\desktop\me\new my stuff\c++ programs\mastermind\main.cpp
 	<iostream>
 	<stdlib.h>
 	<stdio.h>
 	<time.h>
 	<algorithm>
+	<vector>
 
